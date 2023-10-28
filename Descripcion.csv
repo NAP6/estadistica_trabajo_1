@@ -1,0 +1,33 @@
+Ingles,Español,Descripcion
+id,Identificacion, Este es el n£mero de identificación £nico para cada observaci¢n o muestra en el conjunto de datos.
+ diagnosis,Diagnostico, Esta es la variable objetivo que estamos tratando de predecir o clasificar. Representa el diagn¢stico de los tejidos mamarios donde M = maligno y B = benigno.
+ radius_mean,Radio Promedio, Esta es la media de las distancias desde el centro hasta los puntos en el per¡metro del tumor.
+ texture_mean,Textura Promedio, Esta es la desviaci¢n est ndar de los valores en escala de grises en la imagen digitalizada del tumor.
+ perimeter_mean,Perimetro Promedio, Esta es la media del tama¤o del n£cleo del tumor.
+ area_mean,Area Promedio, Esta es la media del  rea del tumor.
+ smoothness_mean,Suavidad Promedio, Esta es la media de la variaci¢n local en las longitudes del radio del tumor.
+ compactness_mean,Compacidad Promedio, Esta es la media de la compactaci¢n del tumor que se calcula como el per¡metro al cuadrado dividido por el  rea menos 1.
+ concavity_mean,Concabidad promedio, Esta es la media de la severidad de las porciones c¢ncavas del contorno del tumor.
+ concave points_mean,Puntos Concavos Promedio, Esta es la media del n£mero de porciones c¢ncavas en el contorno del tumor.
+ symmetry_mean,Simetria Promedio, Esta es la media de la simetr¡a del tumor1.
+ fractal_dimension_mean,Dimensi¢n Fractal Promedio, Esta es la dimensi¢n fractal media del tumor que es una medida de cu n ?complicado? puede ser un conjunto autosimilar23.
+ radius_se,Radio SE, Este es el error est ndar del radio del tumor.
+ texture_se,Textura SE, Este es el error est ndar de la textura del tumor.
+ perimeter_se,Perimetro Se, Este es el error est ndar del per¡metro del tumor.
+ area_se,Area Se, Este es el error est ndar del  rea del tumor.
+ smoothness_se,Suavidad Se, Este es el error est ndar de la suavidad del tumor.
+ compactness_se,Compaciadad Se, Este es el error est ndar de la compactaci¢n del tumor.
+ concavity_se,Concavidad Se, Este es el error est ndar de la concavidad del tumor.
+ concave points_se,Puntos Concavos Se, Este es el error est ndar de los puntos c¢ncavos en el contorno del tumor.
+ symmetry_se,Simetria Se, Este es el error est ndar de la simetr¡a del tumor1.
+ fractal_dimension_se,Dimensi¢n Fractal Se, Este es el error est ndar de la dimensi¢n fractal del tumor23.
+ radius_worst,Radio Peor Caso, Este es el radio m s grande (peor caso) observado para el tumor.
+ texture_worst,Textura Peor Caso, Esta es la textura m s grande (peor caso) observada para el tumor.
+ perimeter_worst,Perimetro Peor Caso, Este es el per¡metro m s grande (peor caso) observado para el tumor.
+ area_worst,Area Peor Caso, Esta es el  rea m s grande (peor caso) observada para el tumor.
+ smoothness_worst,Suavidad Peor Caso, Esta es la suavidad m s grande (peor caso) observada para el tumor.
+ compactness_worst,Compacidad Peor Caso, Esta es la compactaci¢n m s grande (peor caso) observada para el tumor.
+ concavity_worst,Concavidad Peor Caso, Esta es la concavidad m s grande (peor caso) observada para el tumor.
+ concave points_worst,Puntos Concavos Peor Caso, Estos son los puntos c¢ncavos m s grandes (peor caso) observados en el contorno del tumor.
+ symmetry_worst,Simetria Peor Caso, Esta es la simetr¡a m s grande (peor caso) observada para el tumor1.
+ fractal_dimension_worst,Dimension Fractal Peor Caso, Esta es la dimensi¢n fractal m s grande (peor caso) observada para el tumor23.
